@@ -222,7 +222,7 @@ Therefore, providing the correct POS can improve lemmatization.
 
 # WordNetLemmatizer with POS
 
-Example:
+Example:-
 
 ```python
 from nltk.stem import WordNetLemmatizer
